@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Manipulator</string>
+    <string name="BS_copy">COPY</string>
+    <string name="BS_double">DOUBLE</string>
+    <string name="BS_up">UP</string>
+    <string name="BS_down">DOWN</string>
+    <string name="ET">Tyep something here</string>
+    <string name="welcome">welcome back</string>
+</resources>
